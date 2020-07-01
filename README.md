@@ -1,6 +1,3 @@
-# Interpolate-Session-
-
-
 # interpolateSession
 
 ## Assignment
